@@ -1,7 +1,6 @@
 [Desktop Entry]
 Name=Soundcloud Resolver
 Comment=Searches Soundcloud for tracks to play
-Icon=images/icon.png
 
 Type=Service
 X-KDE-ServiceTypes=Tomahawk/Resolver
