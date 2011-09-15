@@ -4,6 +4,7 @@ Comment=Searches Soundcloud for tracks to play
 
 Type=Service
 X-KDE-ServiceTypes=Tomahawk/Resolver
+X-Synchrotron-MainScript=contents/code/soundcloud.js
 
 X-KDE-PluginInfo-Name=soundcloud
 X-KDE-PluginInfo-Author=Thierry

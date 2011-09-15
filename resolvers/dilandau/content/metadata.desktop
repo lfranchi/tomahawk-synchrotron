@@ -4,6 +4,7 @@ Comment=Uses mp3 search engine http://www.dilandau.eu/ to find tracks
 
 Type=Service
 X-KDE-ServiceTypes=Tomahawk/Resolver
+X-Synchrotron-MainScript=contents/code/dilandau.js
 
 X-KDE-PluginInfo-Name=dilandau
 X-KDE-PluginInfo-Author=lasconic

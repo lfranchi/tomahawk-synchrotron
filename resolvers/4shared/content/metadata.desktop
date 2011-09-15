@@ -4,6 +4,7 @@ Comment=Looks for tracks to play from www.4shared.com
 
 Type=Service
 X-KDE-ServiceTypes=Tomahawk/Resolver
+X-Synchrotron-MainScript=contents/code/4shared.js
 
 X-KDE-PluginInfo-Name=4shared
 X-KDE-PluginInfo-Author=lasconic

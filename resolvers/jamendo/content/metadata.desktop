@@ -4,6 +4,7 @@ Comment=Searches Jamendo's free music database
 
 Type=Service
 X-KDE-ServiceTypes=Tomahawk/Resolver
+X-Synchrotron-MainScript=contents/code/jamendo.js
 
 X-KDE-PluginInfo-Name=jamendo
 X-KDE-PluginInfo-Author=lasconic
