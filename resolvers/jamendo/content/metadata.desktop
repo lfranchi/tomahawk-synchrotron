@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=Jamendo Resolver
+Comment=Searches Jamendo's free music database
+
+Type=Service
+X-KDE-ServiceTypes=Tomahawk/Resolver
+
+X-KDE-PluginInfo-Name=jamendo
+X-KDE-PluginInfo-Author=lasconic
+X-KDE-PluginInfo-Email=lasconic@gmail.com
+X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-Website=http://gettomahawk.com
+
