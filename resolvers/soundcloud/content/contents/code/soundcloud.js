@@ -23,10 +23,6 @@ var SoundcloudResolver = Tomahawk.extend(TomahawkResolver, {
         weight: 85,
         timeout: 5
     },
-    init: function() {
-        alert( "OHAI" );
-    },
-
     parseSongResponse: function (qid, artist, responseString) {
         var results = new Array();
         if (responseString != null) {
