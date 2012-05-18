@@ -2,20 +2,5 @@ This is the repository for the tomahawk resolvers that are automatically exposed
 
 Resolvers are manually pushed / upgraded here, and Tomahawk users will be able to install them directly from Tomahawk.
 
-[Binary Resolvers]
-Binary resolvers are supported in the binaryresolvers provider. The layout of the directory is as such:
-
-binaryresolvers/
-    [name]/
-        osx/metadata.desktop
-        osx/resolver.zip
-        
-        windows/metadata.desktop
-        windows/resolver.zip
-        
-    [name]/
-        osx/metadata.desktop
-        osx/resolver.zip
-        
-        windows/metadata.desktop
-        windows/resolver.zip
+To update the binary resolvers (at the moment, spotify-osx and spotify-win), use the create_synchrotron.rb script in 
+admin/{mac|win}/ in the tomahawk-resolvers repo.
